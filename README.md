@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fabian-kruse
-- 👀 I’m interested in machine intelligence, and more specifically, planning
-- 🌱 Currently I'm doing my masters in Computer Science at University Basel 
-- 📫 You can contact me best via fabian_kruse@gmx.de
+- 👀 I’m interested in machine learning for science and science for machine learning
+- 🌱 Currently I'm doing my PhD in Computer Science at University Basel 
+- 📫 You can contact me best via fabian.kruse@unibas.ch
 
 <!---
 fabian-kruse/fabian-kruse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
