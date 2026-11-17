@@ -15,4 +15,4 @@ I develop machine learning and optimization methods for scientific imaging that 
 - [so3kit](https://github.com/fabian-kruse/so3kit): fast harmonic analysis on SO(3) in PyTorch with custom CUDA kernels:
   Wigner-D matrices, SO(3) FFT, and analytic gradients and Hessians for Newton-type optimization over rotations.
 
-**Links:** [Google Scholar](https://scholar.google.com/citations?user=pbBnAGgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/fabian-kruse-23999727a/) · fabian.kruse@unibas.ch
+**Links:** [Website](https://fabian-kruse.github.io) · [Google Scholar](https://scholar.google.com/citations?user=pbBnAGgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/fabian-kruse-23999727a/) · fabian.kruse@unibas.ch
